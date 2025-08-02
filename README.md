@@ -1,4 +1,4 @@
-# Juha Wilppu
+# Hi, I'm Juha Wilppu 👋
 
 Engineering Manager & Software Architect from Finland.  
 13+ years of experience in backend, frontend, and cloud infrastructure.
